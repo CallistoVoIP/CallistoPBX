@@ -2,3 +2,13 @@ CallistoPBX
 ===========
 
 This software is being developed to replace several billing products used by Microcom Communications, Liberty Telecom, and Brute Technologies.
+
+Primary Focus
+-------------
+
+- Replace A2Billing software currently in use for Liberty Telecom for wholesale and calling card access.
+
+- Replace custom configuration directories used for Asterisk PBX installation - CallistoPBX should help maintain and create a full fledged PBX with finer grain reporting facilities
+
+- Replace recording devices for quality assurance
+
